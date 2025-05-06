@@ -37,7 +37,7 @@ Implémentation de l'approche canonique V36.1 pour le calcul du moment magnétiq
 Clonez ce dépôt et assurez-vous d'avoir NumPy et Matplotlib installés.
 
 ```bash
-git clone https://github.com/votre-compte/eqft-v361-framework.git
+git clone https://github.com/E-QFT-Team/github_V36.1.git
 cd eqft-v361-framework
 ```
 
